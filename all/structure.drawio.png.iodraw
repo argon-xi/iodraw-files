@@ -64,6 +64,9 @@
             <mxPoint x="360" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="33bE0h05mLAXhj9ks0Kl-9" value="Interacte with" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
+          <mxGeometry x="300" y="50" width="90" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="33bE0h05mLAXhj9ks0Kl-6" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; orphans: 4; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;Learning Progress Management Module&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;container=0;" vertex="1" parent="1">
           <mxGeometry x="505" y="310" width="110" height="80" as="geometry" />
         </mxCell>
@@ -75,9 +78,6 @@
               <mxPoint x="385" y="370" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="33bE0h05mLAXhj9ks0Kl-9" value="Interacte with" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="445" y="448" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

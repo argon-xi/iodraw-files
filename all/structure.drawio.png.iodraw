@@ -57,7 +57,7 @@
           <mxGeometry x="410" y="50" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="33bE0h05mLAXhj9ks0Kl-15" value="Teaching content" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
-          <mxGeometry x="180" y="50" width="110" height="30" as="geometry" />
+          <mxGeometry x="180" y="40" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="UI" style="swimlane;html=1;startSize=20;horizontal=0;container=0;" parent="1" vertex="1">
           <mxGeometry x="140" y="420" width="510" height="170" as="geometry" />
@@ -116,6 +116,7 @@
             <mxPoint x="440" y="250" as="targetPoint" />
             <Array as="points">
               <mxPoint x="410" y="190" />
+              <mxPoint x="410" y="330" />
             </Array>
           </mxGeometry>
         </mxCell>

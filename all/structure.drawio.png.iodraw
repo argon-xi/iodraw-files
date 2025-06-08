@@ -27,6 +27,9 @@
             <mxRectangle x="20" y="120" width="430" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="33bE0h05mLAXhj9ks0Kl-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;container=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+          <mxGeometry x="300" y="30" width="90" height="70" as="geometry" />
+        </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="UI" style="swimlane;html=1;startSize=20;horizontal=0;container=0;" parent="1" vertex="1">
           <mxGeometry x="140" y="420" width="510" height="170" as="geometry" />
         </mxCell>
@@ -50,7 +53,7 @@
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" parent="1" source="dNxyNK7c78bLwvsdeMH5-26" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="340" as="targetPoint" />
+            <mxPoint x="420" y="345" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;container=0;" parent="1" vertex="1">

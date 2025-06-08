@@ -43,7 +43,7 @@
           <mxGeometry x="110" y="118" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="33bE0h05mLAXhj9ks0Kl-15" value="Teaching content" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;fontSize=10;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
-          <mxGeometry x="185" y="110" width="100" height="30" as="geometry" />
+          <mxGeometry x="185" y="100" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="Controller" style="swimlane;html=1;startSize=20;horizontal=0;container=0;" parent="1" vertex="1">
           <mxGeometry x="140" y="280" width="510" height="140" as="geometry">

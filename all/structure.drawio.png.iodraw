@@ -71,8 +71,8 @@
         <mxCell id="33bE0h05mLAXhj9ks0Kl-21" value="Progess" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="175" y="90" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="33bE0h05mLAXhj9ks0Kl-26" value="Control loading" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
-          <mxGeometry x="340" width="100" height="30" as="geometry" />
+        <mxCell id="33bE0h05mLAXhj9ks0Kl-26" value="Control loading" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+          <mxGeometry x="340" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="UI" style="swimlane;html=1;startSize=20;horizontal=0;container=0;" parent="1" vertex="1">
           <mxGeometry x="140" y="420" width="510" height="170" as="geometry" />

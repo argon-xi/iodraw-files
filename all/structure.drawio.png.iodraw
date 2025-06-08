@@ -68,6 +68,9 @@
             <mxPoint x="300" y="-30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="33bE0h05mLAXhj9ks0Kl-21" value="Progess" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+          <mxGeometry x="175" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="UI" style="swimlane;html=1;startSize=20;horizontal=0;container=0;" parent="1" vertex="1">
           <mxGeometry x="140" y="420" width="510" height="170" as="geometry" />
         </mxCell>
@@ -128,9 +131,6 @@
               <mxPoint x="410" y="330" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="33bE0h05mLAXhj9ks0Kl-21" value="Progess" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="320" y="378" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
